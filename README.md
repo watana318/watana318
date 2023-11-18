@@ -16,12 +16,11 @@ Here are some ideas to get you started:
 # Kentaro WATANABE :duck:
 - Software Engineer
   - Full-time 
-    - 
+    - [PLAID, Inc. (2023/11~)](https://plaid.co.jp/)
   - Part-time
     - [Epistra Inc. (2023/03~)](https://www.epistra.jp/)
   - Past
     - [Core Concept Technologies Inc. (2020/04~2023/10)](https://www.cct-inc.co.jp/)
-- JAPAN MENSA(2019~)
 
 # Interest
 - C++
@@ -30,7 +29,6 @@ Here are some ideas to get you started:
 - Web
 
 # Certifications
-- TOEIC 730 (2018)
 - 統計検定 2 級 (2018/09)
 - 基本情報技術者試験 (2021/09)
 - 応用情報技術者試験 (2022/06)
@@ -45,3 +43,6 @@ Here are some ideas to get you started:
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=watana318&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+# Other
+- JAPAN MENSA(2019~)
